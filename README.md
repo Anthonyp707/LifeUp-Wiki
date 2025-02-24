@@ -7,7 +7,7 @@
 First, fork the repository to your own GitHub account. Then, clone your forked repository and navigate into the project directory.
 
 ```bash
-git clone <https://github.com/Anthonyp707/LifeUp-Wiki>
+git clone https://github.com/Anthonyp707/LifeUp-Wiki
 cd LifeUp-Wiki
 ```
 
